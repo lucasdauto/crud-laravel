@@ -1,0 +1,7 @@
+# Execute os seguintes comandos
+
+composer install
+npm install
+npm run dev
+
+Edite o .env e altere as variáveis correspondentes ao acesso ao banco de dados
